@@ -11,7 +11,7 @@
 ## 📂 Directory Structure
 
 ```plaintext
-sakshamtapadia-credit_lending_risk_analysis/
+nishant-2411-credit_lending_risk_analysis/
 ├── README.md                   # Project documentation (you are here)
 ├── config.yml                  # Configuration parameters
 ├── main.py                     # Main training pipeline
@@ -46,8 +46,8 @@ sakshamtapadia-credit_lending_risk_analysis/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/SakshamTapadia/Credit_Lending_Risk_Analysis.git
-cd sakshamtapadia-credit_lending_risk_analysis
+git clone https://github.com/nishant-2411/Credit_Lending_Risk_Analysis.git
+cd nishant-2411-credit_lending_risk_analysis
 ```
 
 ### 2. Install Dependencies
